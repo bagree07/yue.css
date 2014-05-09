@@ -1,8 +1,8 @@
 # yue.css
 
-**yue.css** is a typography stylesheet for readable content. It was
-created for my blog at first since I always designed a new theme for my
-blog. But later it becomes the offical stylesheet for yuehu site.
+**yue.css** is a typography stylesheet for readable content. At first it was
+created for my blog since I always designed a new theme for my
+blog. But later it became the offical stylesheet for yuehu site.
 
 > **yue.css** is not a reset stylesheet.
 
